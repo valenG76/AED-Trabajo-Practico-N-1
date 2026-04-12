@@ -24,7 +24,8 @@ Implementar una aplicación funcional que capture datos, identifique el capítul
     * **Recargo fijo universal**: $25.000.
     * **Adicional por letra**: A-L ($25.000), M-Z ($40.000, sin "U"), o U ($100.000).
     * **Porcentaje variable**: Se suma un porcentaje igual al número ubicado a la derecha del punto.
-
+---
+### BENJA VAMOS QUE PODES EXPLICAR
 ---
 
 ## DIVISIÓN DEL TRABAJO
