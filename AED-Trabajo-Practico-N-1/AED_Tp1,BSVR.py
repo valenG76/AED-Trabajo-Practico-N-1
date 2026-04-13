@@ -1,6 +1,14 @@
 # Parte de Ramiro
 # Verificación de código ICD10, suponemos que el codigo siempre es correcto
 
+"""
+Variables usadas en esta funcion:
+    1. Letra: Refiere a la primera letra del codigo icd10
+    2. Bloque: Refiere a la parte siguente del codigo icd10 x## en cullo caso son dos que van despues de la letra, y serian numeros.
+    3. Subgrupo: Refiere a que subgrupo pertenece, hasta ahora solo lo uso por si llega a pedir que se use el subgrupo
+### (Subgrupo es una variable sin uso) ### 
+"""
+
 letra = codigoicd10[0]
 Bloque = codigoicd10[1:3]
 Subgrupo = codigoicd10[4:]
