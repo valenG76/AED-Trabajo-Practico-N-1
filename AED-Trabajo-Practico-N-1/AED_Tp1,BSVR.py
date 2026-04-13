@@ -1,8 +1,6 @@
 # Parte de Ramiro
 # Verificación de código ICD10, suponemos que el codigo siempre es correcto
 
-codigoicd10 = input("")
-
 letra = codigoicd10[0]
 Bloque = codigoicd10[1:3]
 Subgrupo = codigoicd10[4:]
@@ -78,5 +76,3 @@ elif letra == "Z":
 
 else:
     capitulo = "Códigos para propósitos especiales"
-
-print(capitulo)
