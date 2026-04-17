@@ -84,3 +84,15 @@ elif letra == "Z":
 
 else:
     capitulo = "Códigos para propósitos especiales"
+
+monto_fijo = monto_base + 25000
+
+if letra == "U":
+    monto_parcial = monto_fijo + 100000
+    
+elif "A" <= letra <= "L":
+    monto_parcial = monto_fijo + 25000
+    
+else "M" <= letra <= "Z":
+    monto_parcial = monto_fijo + 40000
+
